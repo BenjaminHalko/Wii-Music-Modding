@@ -8,48 +8,48 @@ Unzip the .zip file in the root folder of the extracted Wii Music disc.
 
 ## Pack 1:
 
-Bonetrousle (Undertale)
+**Bonetrousle** (Undertale)
 
-City Escape (Sonic Adventure 2)
+**City Escape** (Sonic Adventure 2)
 
-Death by Glamour (Undertale)
+**Death by Glamour** (Undertale)
 
-Dogsong (Undertale)
+**Dogsong** (Undertale)
 
-Heartache (Undertale)
+**Heartache** (Undertale)
 
-Klaymen's Theme (The Neverhood)
+**Klaymen's Theme** (The Neverhood)
 
-Megalovania (Undertale)
+**Megalovania** (Undertale)
 
-Mii Channel (Wii Menu)
+**Mii Channel** (Wii Menu)
 
-Obstacle Course (Wii Fit Plus)
+**Obstacle Course** (Wii Fit Plus)
 
-Once Upon a Time (Undertale)
+**Once Upon a Time** (Undertale)
 
-Reach for the Stars (Sonic Colours)
+**Reach for the Stars** (Sonic Colours)
 
-Sans. (Undertale)
+**Sans.** (Undertale)
 
-Temmie Village (Undertale)
+**Temmie Village** (Undertale)
 
-Wii Sports Resort Theme (Wii Sports Resort)
+**Wii Sports Resort Theme** (Wii Sports Resort)
 
 ## Pack 2:
 
-Blue Spheres (Sonic the Hedgehog 3)
+**Blue Spheres** (Sonic the Hedgehog 3)
 
-Forest Dew (Original Song)
+**Forest Dew** (Original Song)
 
-Mega Man 2 Theme (Mega Man 2)
+**Mega Man 2 Theme** (Mega Man 2)
 
-Sonic Boom (Sonic CD)
+**Sonic Boom** (Sonic CD)
 
-Southern Front Porch Whistler (The Neverhood)
+**Southern Front Porch Whistler** (The Neverhood)
 
-The Legend (Deltarune)
+**The Legend** (Deltarune)
 
 ## Pack 3:
 
-Aquatic Ruin Zone (Sonic the Hedgehog 2)
+**Aquatic Ruin Zone** (Sonic the Hedgehog 2)
