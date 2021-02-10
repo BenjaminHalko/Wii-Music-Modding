@@ -18,6 +18,8 @@ Dogsong (Undertale)
 
 Heartache (Undertale)
 
+Klaymen's Theme (The Neverhood)
+
 Megalovania (Undertale)
 
 Mii Channel (Wii Menu)
@@ -33,3 +35,23 @@ Sans. (Undertale)
 Temmie Village (Undertale)
 
 Wii Sports Resort Theme (Wii Sports Resort)
+
+
+**Pack 2:**
+
+Blue Spheres (Sonic the Hedgehog 3)
+
+Forest Dew (Original Song)
+
+Mega Man 2 Theme (Mega Man 2)
+
+Sonic Boom (Sonic CD)
+
+Southern Front Porch Whistler (The Neverhood)
+
+The Legend (Deltarune)
+
+
+**Pack 3:**
+
+Aquatic Ruin Zone (Sonic the Hedgehog 2)
