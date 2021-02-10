@@ -6,7 +6,7 @@ Unzip the .zip file in the root folder of the extracted Wii Music disc.
 
 # Songs in each Pack
 
-##Pack 1:
+## Pack 1:
 
 Bonetrousle (Undertale)
 
@@ -36,7 +36,7 @@ Temmie Village (Undertale)
 
 Wii Sports Resort Theme (Wii Sports Resort)
 
-##Pack 2:
+## Pack 2:
 
 Blue Spheres (Sonic the Hedgehog 3)
 
@@ -50,6 +50,6 @@ Southern Front Porch Whistler (The Neverhood)
 
 The Legend (Deltarune)
 
-##Pack 3:
+## Pack 3:
 
 Aquatic Ruin Zone (Sonic the Hedgehog 2)
