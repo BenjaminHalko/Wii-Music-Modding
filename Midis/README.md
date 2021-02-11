@@ -15,6 +15,8 @@ Death by Glamour -> The Entertainer
 
 Dogsong -> A Little Night Music
 
+Dr. Willy Stage 1 -> Carmen
+
 Forest Dew -> Wake Me Up Before You Go-Go
 
 Heartache -> The Blue Danube

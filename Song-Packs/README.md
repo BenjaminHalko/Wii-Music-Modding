@@ -18,6 +18,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Dogsong** (Undertale)
 
+**Dr. Willy Stage 1** (Mega Man 2)
+
 **Heartache** (Undertale)
 
 **Klaymen's Theme** (The Neverhood)
