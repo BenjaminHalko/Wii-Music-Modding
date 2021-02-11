@@ -41,7 +41,7 @@ Sonic Boom -> A Little Night Music
 
 Southern Front Porch Whistler -> Bridal Chorus
 
-Strike the Earth -> Super Mario Bros.
+Strike the Earth -> F-Zero -- Mute City Theme
 
 Temmie Village -> I'll be There
 
