@@ -41,6 +41,8 @@ Sonic Boom -> A Little Night Music
 
 Southern Front Porch Whistler -> Bridal Chorus
 
+Strike the Earth -> Super Mario Bros.
+
 Temmie Village -> I'll be There
 
 The Legend -> The Entertainer

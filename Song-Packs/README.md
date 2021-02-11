@@ -54,6 +54,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Southern Front Porch Whistler** (The Neverhood)
 
+**Strike the Earth** (Shovel Knight)
+
 **The Legend** (Deltarune)
 
 ## Pack 3:
