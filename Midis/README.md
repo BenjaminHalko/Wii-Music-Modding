@@ -43,6 +43,8 @@ Sonic Boom -> A Little Night Music
 
 Southern Front Porch Whistler -> Bridal Chorus
 
+Star Light Zone -> The Loco Motion
+
 Strike the Earth -> F-Zero -- Mute City Theme
 
 Temmie Village -> I'll be There
