@@ -25,6 +25,8 @@ Heartache -> The Blue Danube
 
 Klaymen's Theme -> Bridal Chorus
 
+Labyrinth Zone -> A Little Night Music
+
 Mega Man 2 Theme -> Super Mario Bros.
 
 Megalovania -> Super Mario Bros.

@@ -18,8 +18,6 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Death by Glamour** (Undertale)
 
-**Dogsong** (Undertale)
-
 **Dr. Willy Stage 1** (Mega Man 2)
 
 **Green Hill Zone** (Sonic the Hedgehog)
@@ -27,6 +25,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 **Heartache** (Undertale)
 
 **Klaymen's Theme** (The Neverhood)
+
+**Labyrinth Zone** (Sonic the Hedgehog)
 
 **Megalovania** (Undertale)
 
@@ -67,3 +67,5 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 ## Pack 3:
 
 **Aquatic Ruin Zone** (Sonic the Hedgehog 2)
+
+**Dogsong** (Undertale)
