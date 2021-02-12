@@ -27,6 +27,8 @@ Klaymen's Theme -> Bridal Chorus
 
 Labyrinth Zone -> A Little Night Music
 
+Marble Zone -> La Cucaracha
+
 Mega Man 2 Theme -> Super Mario Bros.
 
 Megalovania -> Super Mario Bros.

@@ -28,6 +28,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Labyrinth Zone** (Sonic the Hedgehog)
 
+**Marble Zone** (Sonic the Hedgehog)
+
 **Megalovania** (Undertale)
 
 **Mii Channel** (Wii Menu)
@@ -46,8 +48,6 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Temmie Village** (Undertale)
 
-**Wii Sports Resort Theme** (Wii Sports Resort)
-
 ## Pack 2:
 
 **Blue Spheres** (Sonic the Hedgehog 3)
@@ -63,6 +63,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 **Strike the Earth** (Shovel Knight)
 
 **The Legend** (Deltarune)
+
+**Wii Sports Resort Theme** (Wii Sports Resort)
 
 ## Pack 3:
 
