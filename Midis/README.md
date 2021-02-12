@@ -17,6 +17,8 @@ Dogsong -> A Little Night Music
 
 Dr. Willy Stage 1 -> Carmen
 
+Green Hill Zone -> Woman
+
 Forest Dew -> Wake Me Up Before You Go-Go
 
 Heartache -> The Blue Danube

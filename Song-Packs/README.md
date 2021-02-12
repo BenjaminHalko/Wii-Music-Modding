@@ -22,6 +22,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Dr. Willy Stage 1** (Mega Man 2)
 
+**Green Hill Zone** (Sonic the Hedgehog)
+
 **Heartache** (Undertale)
 
 **Klaymen's Theme** (The Neverhood)
