@@ -45,6 +45,8 @@ sans. -> Yankee Doodle
 
 Spring Yard Zone -> Troika
 
+Sonic 1 Special Stage -> Scarborough Fair
+
 Sonic Boom -> A Little Night Music
 
 Southern Front Porch Whistler -> Bridal Chorus

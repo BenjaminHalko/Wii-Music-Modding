@@ -42,6 +42,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Sans.** (Undertale)
 
+**Sonic 1 Special Stage** (Sonic the Hedgehog)
+
 **Spring Yard Zone** (Sonic the Hedgehog)
 
 **Star Light Zone** (Sonic the Hedgehog)
