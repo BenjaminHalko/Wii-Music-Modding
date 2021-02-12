@@ -38,9 +38,9 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Once Upon a Time** (Undertale)
 
-**Reach for the Stars** (Sonic Colours)
-
 **Sans.** (Undertale)
+
+**Scrap Brain Zone** (Sonic the Hedgehog)
 
 **Sonic 1 Special Stage** (Sonic the Hedgehog)
 
@@ -57,6 +57,8 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 **Forest Dew** (Original Song)
 
 **Mega Man 2 Theme** (Mega Man 2)
+
+**Reach for the Stars** (Sonic Colours)
 
 **Sonic Boom** (Sonic CD)
 

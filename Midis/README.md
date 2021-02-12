@@ -41,7 +41,9 @@ Once Upon a Time -> Ode to Joy
 
 Reach for the Stars -> The Legend of Zelda
 
-sans. -> Yankee Doodle
+Sans. -> Yankee Doodle
+
+Scrap Brain Zone -> The Legend of Zelda
 
 Spring Yard Zone -> Troika
 
