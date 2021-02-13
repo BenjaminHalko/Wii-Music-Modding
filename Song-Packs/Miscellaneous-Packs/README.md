@@ -32,6 +32,8 @@
 
 **Scrap Brain Zone** (Sonic the Hedgehog)
 
+**Sonic 1 Boss Theme** (Sonic the Hedgehog)
+
 **Sonic 1 Special Stage** (Sonic the Hedgehog)
 
 **Spring Yard Zone** (Sonic the Hedgehog)
