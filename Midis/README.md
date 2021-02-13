@@ -55,6 +55,8 @@ Sonic 1 Credits -> Carmen
 
 Sonic 1 Special Stage -> Scarborough Fair
 
+Sonic 2 Boss Theme -> Material Girl
+
 Sonic Boom -> A Little Night Music
 
 Southern Front Porch Whistler -> Bridal Chorus
