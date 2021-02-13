@@ -54,11 +54,15 @@ If you don't know how to extract your Wii Music disc look at my tutorial: https:
 
 **Blue Spheres** (Sonic the Hedgehog 3)
 
+**Final Zone** (Sonic the Hedgehog)
+
 **Forest Dew** (Original Song)
 
 **Mega Man 2 Theme** (Mega Man 2)
 
 **Reach for the Stars** (Sonic Colours)
+
+**Sonic 1 Credits** (Sonic the Hedgehog)
 
 **Sonic Boom** (Sonic CD)
 

@@ -19,6 +19,8 @@ Dr. Willy Stage 1 -> Carmen
 
 Green Hill Zone -> Woman
 
+Final Zone -> American Patrol
+
 Forest Dew -> Wake Me Up Before You Go-Go
 
 Heartache -> The Blue Danube
@@ -46,6 +48,8 @@ Sans. -> Yankee Doodle
 Scrap Brain Zone -> The Legend of Zelda
 
 Spring Yard Zone -> Troika
+
+Sonic 1 Credits -> Carmen
 
 Sonic 1 Special Stage -> Scarborough Fair
 
