@@ -49,6 +49,8 @@ Scrap Brain Zone -> The Legend of Zelda
 
 Spring Yard Zone -> Troika
 
+Sonic 1 Boss Theme -> From the New World
+
 Sonic 1 Credits -> Carmen
 
 Sonic 1 Special Stage -> Scarborough Fair
