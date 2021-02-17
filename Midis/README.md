@@ -25,6 +25,8 @@ Forest Dew -> Wake Me Up Before You Go-Go
 
 Heartache -> The Blue Danube
 
+Hill Top Zone -> I've Never Been to Me
+
 Klaymen's Theme -> Bridal Chorus
 
 Labyrinth Zone -> A Little Night Music
