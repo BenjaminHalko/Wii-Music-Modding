@@ -37,7 +37,11 @@ Mega Man 2 Theme -> Super Mario Bros.
 
 Megalovania -> Super Mario Bros.
 
+Metropolis Zone -> The Entertainer
+
 Mii Channel -> Wake Me Up Before You Go-Go
+
+Mystic Cave Zone -> Ode to Joy
 
 Obstacle Course -> American Patrol
 
@@ -48,6 +52,8 @@ Reach for the Stars -> The Legend of Zelda
 Sans. -> Yankee Doodle
 
 Scrap Brain Zone -> The Legend of Zelda
+
+Sky Chase Zone -> Do-Re-Mi
 
 Spring Yard Zone -> Troika
 
