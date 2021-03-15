@@ -9,6 +9,8 @@ Blue Spheres -> Material Girl
 
 Bonetrousle -> F-Zero -- Mute City Theme
 
+Casino Night Zone (2 Player) -> La Cucaracha
+
 City Escape -> Material Girl
 
 Death by Glamour -> The Entertainer
