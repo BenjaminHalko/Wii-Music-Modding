@@ -17,6 +17,8 @@ Death by Glamour -> The Entertainer
 
 Dogsong -> A Little Night Music
 
+Dolphin Shoals -> Wake Me Up Before You Go-Go
+
 Dr. Willy Stage 1 -> Carmen
 
 Green Hill Zone -> Woman
