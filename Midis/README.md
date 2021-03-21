@@ -59,6 +59,8 @@ Scrap Brain Zone -> The Legend of Zelda
 
 Sky Chase Zone -> Do-Re-Mi
 
+Spear of Justice -> Carmen
+
 Spring Yard Zone -> Troika
 
 Sonic 1 Boss Theme -> From the New World
