@@ -5,6 +5,8 @@ Some midi files to put into Wii Music using my tutorial: https://youtu.be/fBS4OF
 # Song -> Song it Overrides
 Aquatic Ruin Zone -> Material Girl
 
+Battle Against a True Hero -> Super Mario Bros.
+
 Blue Spheres -> Material Girl
 
 Bonetrousle -> F-Zero -- Mute City Theme
